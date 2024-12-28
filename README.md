@@ -1,5 +1,5 @@
-# Git Configuration
+# Dotfiles
 
 [![Project Status: Maintained](./assets/images/badges/status.svg)](./)
 
-> My configurations for git.
+> My dotfiles (configuration and data).
