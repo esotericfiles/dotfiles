@@ -9,3 +9,6 @@
 !.vscode/settings.json
 
 !.gitconfig
+
+!Desktop
+!Desktop/.directory
