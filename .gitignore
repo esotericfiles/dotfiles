@@ -16,6 +16,10 @@
 !.config
 !.config/supertuxkart
 
+!.config
+!.config/JetBrains
+!.config/JetBrains/*
+
 !.local
 !.local/share
 !.local/share/PrismLauncher
