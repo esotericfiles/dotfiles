@@ -15,3 +15,7 @@
 
 !.config
 !.config/supertuxkart
+
+!.local
+!.local/share
+!.local/share/PrismLauncher

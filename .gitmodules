@@ -1,3 +1,6 @@
 [submodule ".config/supertuxkart"]
 	path = .config/supertuxkart
 	url = git@github.com:esotericenderman/supertuxkart-save.git
+[submodule ".local/share/PrismLauncher"]
+	path = .local/share/PrismLauncher
+	url = git@github.com:esotericenderman/prism-launcher-configuration.git
