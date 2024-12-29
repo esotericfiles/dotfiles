@@ -1,5 +1,5 @@
 # Dotfiles
 
-[![Project Status: Maintained](./assets/images/badges/status.svg)](./)
+[![Project Status: Maintained](./Pictures/Badges/Status/Maintained.svg)](./)
 
 > My dotfiles (configuration and data).

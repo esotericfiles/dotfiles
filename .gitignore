@@ -30,3 +30,8 @@
 !.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users/steamuser/AppData
 !.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users/steamuser/AppData/Roaming
 !.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users/steamuser/AppData/Roaming/SCP Secret Laboratory
+
+!Pictures
+!Pictures/Badges
+!Pictures/Badges/Status
+!Pictures/Badges/Status/*
