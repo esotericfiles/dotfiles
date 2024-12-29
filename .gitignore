@@ -19,3 +19,14 @@
 !.local
 !.local/share
 !.local/share/PrismLauncher
+!.local/share/Steam
+!.local/share/Steam/steamapps
+!.local/share/Steam/steamapps/compatdata
+!.local/share/Steam/steamapps/compatdata/*
+!.local/share/Steam/steamapps/compatdata/*/pfx
+!.local/share/Steam/steamapps/compatdata/*/pfx/drive_c
+!.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users
+!.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users/steamuser
+!.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users/steamuser/AppData
+!.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users/steamuser/AppData/Roaming
+!.local/share/Steam/steamapps/compatdata/*/pfx/drive_c/users/steamuser/AppData/Roaming/SCP Secret Laboratory

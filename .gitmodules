@@ -4,3 +4,6 @@
 [submodule ".local/share/PrismLauncher"]
 	path = .local/share/PrismLauncher
 	url = git@github.com:esotericenderman/prism-launcher-configuration.git
+[submodule ".local/share/Steam/steamapps/compatdata/700330/pfx/drive_c/users/steamuser/AppData/Roaming/SCP Secret Laboratory"]
+	path = .local/share/Steam/steamapps/compatdata/700330/pfx/drive_c/users/steamuser/AppData/Roaming/SCP Secret Laboratory
+	url = git@github.com:esotericenderman/scp-secret-laboratory-configuration.git
