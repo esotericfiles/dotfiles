@@ -1,0 +1,3 @@
+[submodule ".config/supertuxkart"]
+	path = .config/supertuxkart
+	url = git@github.com:esotericenderman/supertuxkart-save.git
