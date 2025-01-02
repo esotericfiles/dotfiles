@@ -10,3 +10,6 @@
 [submodule ".config/JetBrains/IntelliJIdea2024.3"]
 	path = .config/JetBrains/IntelliJIdea2024.3
 	url = git@github.com:esotericenderman/intellij-idea-configuration.git
+[submodule ".config/JetBrains/PyCharm2024.3"]
+	path = .config/JetBrains/PyCharm2024.3
+	url = git@github.com:esotericenderman/pycharm-configuration.git
