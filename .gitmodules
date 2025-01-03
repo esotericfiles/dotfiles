@@ -13,3 +13,6 @@
 [submodule ".config/JetBrains/PyCharm2024.3"]
 	path = .config/JetBrains/PyCharm2024.3
 	url = git@github.com:esotericenderman/pycharm-configuration.git
+[submodule ".config/JetBrains/Rider2024.3"]
+	path = .config/JetBrains/Rider2024.3
+	url = git@github.com:esotericenderman/rider-configuration.git
