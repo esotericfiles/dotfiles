@@ -16,3 +16,6 @@
 [submodule ".config/JetBrains/Rider2024.3"]
 	path = .config/JetBrains/Rider2024.3
 	url = git@github.com:esotericenderman/rider-configuration.git
+[submodule ".config/JetBrains/WebStorm2024.3"]
+	path = .config/JetBrains/WebStorm2024.3
+	url = git@github.com:esotericenderman/webstorm-configuration.git
