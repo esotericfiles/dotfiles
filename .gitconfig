@@ -1,5 +1,5 @@
 [core]
-	autocrlf = false
+	autocrlf = input
 	symlinks = true
 [user]
 	name = "Esoteric Enderman"
