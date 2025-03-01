@@ -1,5 +1,6 @@
 [core]
 	autocrlf = false
+	symlinks = true
 [user]
 	name = "Esoteric Enderman"
 	email = "esotericenderman@gmail.com"
