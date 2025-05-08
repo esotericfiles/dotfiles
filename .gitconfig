@@ -22,3 +22,6 @@
 	autoSetupRemote = true
 [commit]
 	gpgsign = true
+[alias]
+    cs = commit -s
+
