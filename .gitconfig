@@ -4,7 +4,7 @@
 [user]
 	name = "Esoteric Enderman"
 	email = "esotericenderman@gmail.com"
-	signingkey = 538675F8CD3D846C
+	signingkey = 6651405A94C20249
 [credential "https://www.github.com"]
 	provider = github
 [safe]
@@ -20,3 +20,5 @@
 	defaultBranch = main
 [push]
 	autoSetupRemote = true
+[commit]
+	gpgsign = true
