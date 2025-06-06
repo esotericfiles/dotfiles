@@ -20,8 +20,15 @@
 	defaultBranch = main
 [push]
 	autoSetupRemote = true
+	recurseSubmodules = on-demand
 [commit]
 	gpgsign = true
 [alias]
     cs = commit -s
 
+[submodule]
+	recurse = true
+[clean]
+	requireForce = false
+[branch]
+	autoSetupMerge = true
