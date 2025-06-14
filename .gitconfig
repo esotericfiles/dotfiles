@@ -3,7 +3,7 @@
 	symlinks = true
 [user]
 	name = "Esoteric Enderman"
-	email = "esotericenderman@gmail.com"
+	email = "EsotericEnderman@proton.me"
 	signingkey = 6651405A94C20249
 [credential "https://www.github.com"]
 	provider = github
