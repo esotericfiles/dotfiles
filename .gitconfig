@@ -4,7 +4,7 @@
 [user]
 	name = "Esoteric Enderman"
 	email = "EsotericEnderman@proton.me"
-	signingkey = 6651405A94C20249
+	signingkey = F89A1976E28668E811140D083286CA450ACFA5E0
 [credential "https://www.github.com"]
 	provider = github
 [safe]
